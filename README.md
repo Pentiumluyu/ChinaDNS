@@ -15,7 +15,6 @@ Install
     [Download a release].
 
         ./configure && make
-        src/chinadns -l iplist.txt -c chnroute.txt
 
 * OpenWRT
     * For ar71xx router:
